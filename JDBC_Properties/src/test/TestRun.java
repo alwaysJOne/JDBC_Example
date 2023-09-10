@@ -4,11 +4,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-public class TestRun {
+public class TestRun { 
 
 	public static void main(String[] args) {
 
-		// Properties
+		// Properties .
 		/*
 		 * * Properties 특징 - Map 계열 컬렉션 (Key+value 세트로 담는 특징) - KEY, VALUE 모두
 		 * String(문자열)으로 담기 setProperty(String key, String value) getProperty(String
